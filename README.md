@@ -1,6 +1,6 @@
 # cloduino
 
-A Leiningen template for FIXME.
+A Leiningen template for cloduino, to hack on your arduino using the wonderfull clojure language. What is the benefit of using clojure on arduino? I don't know but lets find out.
 
 ## Usage
 
